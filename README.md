@@ -301,29 +301,3 @@ agent_with_tools = LlmAgent(
     instruction="Use tools to enhance responses"
 )
 ```
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Resources
-
-- [Google Cloud AI Platform](https://cloud.google.com/ai-platform)
-- [Vertex AI Documentation](https://cloud.google.com/vertex-ai/docs)
-- [Agent Development Kit Guides](https://cloud.google.com/adk)
-- [Community Examples](https://github.com/googleapis/agentic-examples)
-
-## 📞 Support
-
-For support and questions:
-- [GitHub Issues](https://github.com/your-repo/issues)
-- [Google Cloud Support](https://cloud.google.com/support)
-- [Community Forums](https://cloud.google.com/community)
-
----
-
-**Built with ❤️ by the Google Cloud AI Platform Team**
